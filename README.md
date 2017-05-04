@@ -4,10 +4,6 @@ In this project, the Udacity Blog Feed is tested using Jasmine.
 
 ## Access
 
-Access the page here: https://itingw.github.io/feed-reader-testing/
-
--OR-
-
 1. Download the repository
 2. Unzip the repository
 3. Open "index.html" in any browser
