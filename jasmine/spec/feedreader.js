@@ -129,7 +129,7 @@ $(function() {
             done();
         });
 
-        it('should change the articles when a feed is loaded', function(done) {
+        it('should change the feed content when a feed is loaded', function(done) {
             expect(articles).not.toBe($('.feed').html());
             done();
         });
